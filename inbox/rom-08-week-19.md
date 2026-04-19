@@ -43,7 +43,7 @@
 ## Connections
 
 - **Romans 8:29 → Philippians 1:6**: "The good work" God completes (Phil 1:6) is the same "good" of Romans 8:28 — conformity to Christ. These are the same promise from two angles.
-- **Romans 8:29 ("foreknew") → Matthew 7:23 ("I never knew you")**: To be *foreknown* by God is to be in relationship, not just selected. The people in Matthew 7 did impressive works but were *unknown*. The contrast is relationship vs. performance.
+- **Romans 8:29 ("foreknew") → Matthew 7:23 ("I never knew you")**: "Foreknew" is more than "I knew about them." It's intimate, covenantal knowledge — the kind God *didn't* have with the people in Matthew 7 despite their ministry activity. The contrast is covenant relationship vs. performance.
 - **The Great Commission (Matt 28) → "conformed to the image of His Son"**: Discipleship *is* the mechanism of Christlikeness. The mission and the transformation are inseparable.
 
 ---
@@ -51,8 +51,9 @@
 ## Things Worth Sitting With
 
 - The Spirit intercedes because **we don't know what to pray for**. This is pastoral — we don't need to have prayer figured out. Weakness in prayer is the assumed starting point, not a failure state.
-- The "golden chain" (foreknew → predestined → called → justified → glorified) is written in past tense even for glorification. Paul treats God's future completion as already certain — which is the ground for the comfort, not just the theology.
+- The "golden chain" (foreknew → predestined → called → justified → glorified) is written in past tense even for glorification. Paul treats God's future completion as already certain — the pastoral point is the *security*, not the systematic theology. The pattern is powerful and real without necessarily carrying everything Reformed theology packs into it.
 - Matthew 7:21–23 is jarring here: remarkable religious activity (prophecy, exorcism, miracles) done *in Jesus' name* — and rejected. The issue was never the works. It was being known. This recalibrates what "doing the will of the Father" actually means.
+- **Pastoral move worth noting:** The preacher explicitly set aside the Calvinist/Arminian debate and asked the room to sit with how *beautiful* it is that God set His love on us. The theological questions are real — but they're not the point of the passage. Don't let the debate crowd out the wonder.
 
 ---
 
