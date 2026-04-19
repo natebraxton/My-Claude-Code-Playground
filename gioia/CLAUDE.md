@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Gioia (JOY-ah) is being rebranded from PrintSource — the change is not yet public. On first mention write it as Gioia (JOY-ah), after that simply Gioia.
+The company is rebranding to Gioia (JOY-ah) — do not reference the previous name in any work. On first mention write it as Gioia (JOY-ah), after that simply Gioia. The rebrand is not yet public; work here is to assist with the transition. When drafting client/vendor communications about the launch, the previous name may be referenced only to communicate the transition (e.g. "formerly known as...").
 
 ## Context
 
@@ -29,4 +29,4 @@ VP of Creative & Digital Service.
 ## Key Notes
 
 - "Gioia" is the Italian word for joy
-- The rebrand from PrintSource is not public — do not reference PrintSource in external-facing content
+- Never use the previous company name except in transition communications when the rebrand goes live
