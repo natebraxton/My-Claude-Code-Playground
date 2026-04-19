@@ -14,9 +14,9 @@
 
 ## Main Point
 
-**"The good" is not** ==circumstantial comfort== **— it is** ==Christlikeness (conformity to the image of His Son)==.
+**"The good" is not** ==comfort== **— it is** ==conformity==.
 
-> The passage defines its own terms. Verse 28 promises "the good." Verse 29 immediately defines it: *"to be conformed to the image of His Son."* The good is not a favorable outcome — it is a transformed person.
+> Christians don't experience less bad stuff in life than non-Christians. The passage defines its own terms: verse 28 promises "the good," verse 29 immediately defines it as *"to be conformed to the image of His Son."* The good is not a favorable outcome — it is a transformed person.
 
 ---
 
