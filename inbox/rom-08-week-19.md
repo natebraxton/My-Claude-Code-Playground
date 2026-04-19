@@ -54,6 +54,7 @@
 - The "golden chain" (foreknew → predestined → called → justified → glorified) is written in past tense even for glorification. Paul treats God's future completion as already certain — the pastoral point is the *security*, not the systematic theology. The pattern is powerful and real without necessarily carrying everything Reformed theology packs into it.
 - Matthew 7:21–23 is jarring here: remarkable religious activity (prophecy, exorcism, miracles) done *in Jesus' name* — and rejected. The issue was never the works. It was being known. This recalibrates what "doing the will of the Father" actually means.
 - **Pastoral move worth noting:** The preacher explicitly set aside the Calvinist/Arminian debate and asked the room to sit with how *beautiful* it is that God set His love on us. The theological questions are real — but they're not the point of the passage. Don't let the debate crowd out the wonder.
+- **Closing:** An encouragement to lay burdens down before the Father. Worth sitting with — evangelicalism in practice tends to center Jesus (worship, language, devotion) while the Father stays abstract. But the Spirit intercedes *to* the Father (v.27), Jesus intercedes *to* the Father, and the Lord's Prayer is addressed to the Father. The Trinitarian grammar of prayer points Fatherward more than evangelical culture often reflects.
 
 ---
 
