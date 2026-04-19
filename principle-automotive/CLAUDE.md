@@ -2,28 +2,39 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Principle Automotive is a retainer freelance client with a significant monthly scope.
+Principle Automotive is a car dealership group based in San Antonio. This is a Nifty Biscuit retainer client.
 
 ## Context
 
-@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/<VaultName>/Clients/PrincipleAutomotive.md
+@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/My Vault/Clients/PrincipleAutomotive.md
 
-## Retainer Scope
+## Dealerships
 
-- [Define monthly deliverables and scope boundaries]
+- Principle BMW of Corpus Christi
+- Principle BMW of San Antonio
+- Principle Hyundai Boerne
+- Principle MINI of San Antonio
+- Principle Toyota in Memphis
+- Principle VW Grapevine
+- Principle Volvo Cars San Antonio
 
-## Stack & Systems
+## Monthly Workflow
 
-- [Add their CMS, hosting, analytics, third-party integrations]
+The core deliverable is a monthly eblast per dealership. The calendar is tight:
 
-## Brand & Style Constraints
+- OEM offers released: **1st–3rd of the month**
+- Eblast send date: **Thursday or Friday closest to before the 15th**
+- Eblasts built in **Topal.io**; ad images built in **Figma**
+- Ads must comply with **Texas state law** and each **OEM's marketing guidelines**
+- Offers sometimes need to be posted to the dealership's homepage slider
 
-- [Add brand guidelines, tone, any client-specific preferences or restrictions]
+## Additional Monthly Services
 
-## Key Contacts
+- Staff updates across all dealership websites
+- Print ads for BMW of San Antonio and Volvo San Antonio (3 publications)
+- Miscellaneous web and design work as needed
 
-- [Add stakeholders and their roles]
+## Platform & Hosting
 
-## Commands
-
-- [Add build/deploy/preview commands]
+- Most dealership websites hosted on **Dealer.com**
+- INFINITI hosted on **Dealer Inspire**

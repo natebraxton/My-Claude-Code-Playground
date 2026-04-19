@@ -2,20 +2,24 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Matchbook Games creates card and board games.
+Matchbook Games creates card and board games. Bootstrapped. Goal is a long-term sustainable brand with games that generate recurring revenue. Collaborating with illustrator Dave Lilly.
 
 ## Context
 
-@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/<VaultName>/Projects/MatchbookGames.md
+@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/My Vault/Projects/MatchbookGames.md
 
-## Active Games
+## Current Game
 
-- [List games in development with their current stage: concept / playtesting / publishing]
+**Troll on a Roll** (working title)
+- Rules and gameplay are complete
+- Needs: final design and illustrations
+- Illustrations are hand-drawn with some Adobe Illustrator work
+- Layout in Adobe InDesign
 
-## Tools & Workflow
+## Production
 
-- [Add design tools, print-on-demand services, rulebook format, playtesting process]
+Target: low-run beta copies and initial retail run. Currently evaluating:
+- [The Game Crafter](https://www.thegamecrafter.com/) — low minimum runs
+- [Panda GM](https://pandagm.com/) — competitive for larger runs
 
-## Publishing & Distribution
-
-- [Add publisher relationships, storefronts, fulfillment details]
+Open to other cost-effective options for bootstrapped early production.

@@ -2,20 +2,25 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Nifty Biscuit is a personal freelance agency.
+Nifty Biscuit is a freelance creative agency offering branding, website design and build, and collateral. No monthly campaign or SEO work.
 
 ## Context
 
-@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/<VaultName>/Clients/NiftyBiscuit.md
+@~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/My Vault/Clients/NiftyBiscuit.md
 
-## Clients & Projects
+## Strategic Direction
 
-- [List active clients here]
+Exploring a pivot toward **Fractional Brand Steward** services (working title) — more details TBD.
 
-## Stack & Tools
+## Current Clients
 
-- [Add tools, CMS, hosting, deployment platforms used across client work]
+- **Principle Automotive** — primary retainer (see separate CLAUDE.md)
+- **Faithville Park** — Spring Branch, TX; owned by Prime Ventures
+- **Prime Ventures** — occasional work
+- Note: Gioia was a key client; now a full-time role
 
-## Commands
+## Tools & Stack
 
-- [Add build/deploy commands per project as needed]
+- **Websites**: Relume Library + Webflow (design and build)
+- **Print/Collateral**: Adobe InDesign, Illustrator, Photoshop
+- **UI/Prototyping**: Figma
