@@ -1,21 +1,23 @@
 #!/bin/bash
 
 PLAYGROUND="/Users/natebraxton/my-claude-code-playground"
-PROJECTS="/Users/natebraxton/Projects"
 
-# Create project folders
-mkdir -p "$PROJECTS/gioia"
-mkdir -p "$PROJECTS/nifty-biscuit"
-mkdir -p "$PROJECTS/principle-automotive"
-mkdir -p "$PROJECTS/matchbook-games"
-mkdir -p "$PROJECTS/personal"
+# Global Claude setup
+mkdir -p ~/.claude/skills
+cp "$PLAYGROUND/global/CLAUDE.md" ~/.claude/CLAUDE.md
+cp "$PLAYGROUND/global/skills/save-to-obsidian.md" ~/.claude/skills/save-to-obsidian.md
 
-# Drop CLAUDE.md into each
-cp "$PLAYGROUND/gioia/CLAUDE.md" "$PROJECTS/gioia/CLAUDE.md"
-cp "$PLAYGROUND/nifty-biscuit/CLAUDE.md" "$PROJECTS/nifty-biscuit/CLAUDE.md"
-cp "$PLAYGROUND/principle-automotive/CLAUDE.md" "$PROJECTS/principle-automotive/CLAUDE.md"
-cp "$PLAYGROUND/matchbook-games/CLAUDE.md" "$PROJECTS/matchbook-games/CLAUDE.md"
-cp "$PLAYGROUND/personal/CLAUDE.md" "$PROJECTS/personal/CLAUDE.md"
+# WDID repos (these have their own git repos, so CLAUDE.md lives there)
+cp "$PLAYGROUND/wdid-frontend/CLAUDE.md" /Users/natebraxton/Dev/wdid-frontend/CLAUDE.md
+cp "$PLAYGROUND/wdid-api/CLAUDE.md" /Users/natebraxton/Dev/wdid-api/CLAUDE.md
 
-echo "Done! Project folders created at $PROJECTS"
-ls "$PROJECTS"
+echo "Done!"
+echo ""
+echo "Start a session:"
+echo "  Gioia:                cd ~/my-claude-code-playground/gioia && claude"
+echo "  Nifty Biscuit:        cd ~/my-claude-code-playground/nifty-biscuit && claude"
+echo "  Principle Automotive: cd ~/my-claude-code-playground/principle-automotive && claude"
+echo "  Matchbook Games:      cd ~/my-claude-code-playground/matchbook-games && claude"
+echo "  Personal:             cd ~/my-claude-code-playground/personal && claude"
+echo "  WDID Frontend:        cd ~/Dev/wdid-frontend && claude"
+echo "  WDID API:             cd ~/Dev/wdid-api && claude"
