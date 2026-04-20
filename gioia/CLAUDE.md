@@ -8,6 +8,10 @@ The company is rebranding to Gioia (JOY-ah) — do not reference the previous na
 
 @~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/My Vault/Clients/Gioia.md
 
+## Role
+
+VP of Creative & Digital Service.
+
 ## Brand
 
 **Tagline:** We bring brands to life.
@@ -18,15 +22,48 @@ The company is rebranding to Gioia (JOY-ah) — do not reference the previous na
 
 **Mission:** Make every brand touchpoint a source of joy, for the people who create it and the people who receive it.
 
-## What Gioia Does
+## Brand Voice
 
-Single-source brand experience company: branded print, promotional products, apparel, events, and signage. Manages the full project lifecycle — concept, spec creation, production, storage, and fulfillment — as a strategic extension of clients' teams.
+Three core characteristics:
 
-## Role
+- **Insightful & Expert** — confident, informed, clear point of view grounded in real production knowledge; interpret options, explain what matters and why
+- **Meticulous & Clear** — precise language, no fluff, no vague promises; clarity is a form of respect
+- **Approachable & Human** — professional but warm and direct; ego-free; invite questions, acknowledge constraints
 
-VP of Creative & Digital Service.
+**Do:** Be clear and confident. Speak with a point of view. Emphasize solutions and outcomes. Use steady, calm language. Keep it human and plain.
 
-## Key Notes
+**Don't:** Use hype or buzzwords. Over-promise or oversimplify. Sound rigid or cold. Be vague about timelines or responsibilities. Treat branded goods as "just stuff."
 
-- "Gioia" is the Italian word for joy
-- Never use the previous company name except in transition communications when the rebrand goes live
+### Tone by content type
+
+| Content Type | Tone |
+|---|---|
+| Website copy | Clear, confident, approachable. Plain language, avoid jargon without context. |
+| Client emails | Professional yet personable. Direct, organized, calm, solutions-oriented. |
+| Social media | Warm, genuine, concise. Highlight client wins and outcomes. |
+| Marketing materials | Confident, solution-focused. Let clarity and proof do the work — no hype. |
+| Educational content | Knowledgeable yet empowering. Practical guidance that helps teams decide. |
+
+## Target Audience
+
+**Primary — Marketing Leaders** (VP Marketing, CMO, Director, Manager, Creative Director)
+Running lean 1–3 person teams, expected to do more with less. Want a strategic partner, not a vendor. Core needs: brand consistency across touchpoints, vendor consolidation, proactive guidance, budget protection, production handled seamlessly.
+
+**Secondary:** HR Leaders (employee engagement, onboarding), Agencies & Freelancers (production partner who makes their work look good), Procurement Teams (PO/invoicing integration), Complex multi-location or high-stakes project leads.
+
+## Services
+
+- Branded print, promotional products, apparel, events, signage
+- Full lifecycle management: strategy → sourcing → production → warehousing → fulfillment
+- **Managed Brand Stores**: Pop-Up, Employee Store, Marketing Store, Marketing Store Pro
+  - See `inbox/gioia/PrintSource-ManagedBrandStores-OnePager.md` for pricing/specs (needs rebrand to Gioia)
+
+## Brand Boundaries
+
+**We are:** Insightful strategic partners. Meticulous in every detail. Approachable and ego-free.
+
+**We are not:** Transactional or impersonal. Rigid or bureaucratic. Cutting corners to win on price. Everything to everyone.
+
+## Reference Docs
+
+Full brand foundation: `inbox/gioia/Gioia-BrandFoundation-2026-0305.md`
